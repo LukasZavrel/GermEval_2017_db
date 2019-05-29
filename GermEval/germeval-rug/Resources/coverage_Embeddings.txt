@@ -1,0 +1,37 @@
+COVERAGE OF VARIOUS EMBEDDINGS W.R.T TRAINING DATA
+
+Coverage Wiki embeddings
+
+16755 unique tokens in training data
+Vocab size of embeddings: 3405340
+Coverage of wiki_embeddings_de_52D.json:
+Words in embeddings: 13573, 0.81 of total training data
+Words not in embeddings (OOV): 3182, 0.19 of total training data
+
+
+Coverage Twitter embeddings
+
+16755 unique tokens in training data
+Vocab size of embeddings: 4495608
+Coverage of twitter_embeddings_de_52D.json:
+Words in embeddings: 11635, 0.69 of total training data
+Words not in embeddings (OOV): 5120, 0.31 of total training data
+
+
+Coverage Hate embeddings (Facebook posts)
+
+16755 unique tokens in training data
+Vocab size of embeddings: 313443
+Coverage of hate_german.bin:
+Words in embeddings: 13468, 0.8 of total training data
+Words not in embeddings (OOV): 3287, 0.2 of total training data
+
+
+Coverage Wiki + Hate embeddings
+
+16755 unique tokens in training data
+Vocab size of embeddings: 3588358
+Coverage of wiki_hate_52D_de.p:
+Words in embeddings: 14622, 0.87 of total training data
+Words not in embeddings (OOV): 2133, 0.13 of total training data
+
